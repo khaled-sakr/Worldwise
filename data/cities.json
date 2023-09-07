@@ -1,0 +1,328 @@
+{
+  "cities": [
+    {
+      "cityName": "Getafe",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-13T16:11:41.009Z",
+      "notes": "ds",
+      "position": {
+        "lat": "40.3130432088809",
+        "lng": "-3.7573242187500004"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Al Maḩallah al Kubra",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:22:58.539Z",
+      "notes": "jyg\n",
+      "position": {
+        "lat": "30.949346915468563",
+        "lng": "31.080322265625004"
+      },
+      "id": 73930392
+    },
+    {
+      "cityName": "Kafr ash Shaykh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:31:08.556Z",
+      "notes": "sd",
+      "position": {
+        "lat": "31.109388560814963",
+        "lng": "30.997924804687504"
+      },
+      "id": 73930394
+    },
+    {
+      "cityName": "Kafr ash Shaykh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:35:47.800Z",
+      "notes": "d",
+      "position": {
+        "lat": "31.109388560814963",
+        "lng": "30.997924804687504"
+      },
+      "id": 73930395
+    },
+    {
+      "cityName": "Kafr ash Shaykh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:41:55.980Z",
+      "notes": "de",
+      "position": {
+        "lat": "31.08586989620833",
+        "lng": "30.877075195312504"
+      },
+      "id": 73930399
+    },
+    {
+      "cityName": "Ash Shuhada’",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:45:01.590Z",
+      "notes": "",
+      "position": {
+        "lat": "30.619004797647808",
+        "lng": "30.904541015625004"
+      },
+      "id": 73930400
+    },
+    {
+      "cityName": "Lake Burullus",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:46:59.957Z",
+      "notes": "s",
+      "position": {
+        "lat": "31.48020882071693",
+        "lng": "30.877075195312504"
+      },
+      "id": 73930401
+    },
+    {
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:49:24.765Z",
+      "notes": "s",
+      "position": {
+        "lat": "31.269160890477654",
+        "lng": "29.591674804687504"
+      },
+      "id": 73930402
+    },
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:49:36.507Z",
+      "notes": "sx",
+      "position": {
+        "lat": "28.304380682962783",
+        "lng": "29.443359375000004"
+      },
+      "id": 73930403
+    },
+    {
+      "cityName": "As Sanţah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:49:55.482Z",
+      "notes": "a",
+      "position": {
+        "lat": "30.675715404167743",
+        "lng": "31.085815429687504"
+      },
+      "id": 73930404
+    },
+    {
+      "cityName": "Ar Riyaḑ",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:52:10.718Z",
+      "notes": "",
+      "position": {
+        "lat": "31.414600276313234",
+        "lng": "30.882568359375004"
+      },
+      "id": 73930405
+    },
+    {
+      "cityName": "Lake Burullus",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T12:52:14.963Z",
+      "notes": "s",
+      "position": {
+        "lat": "31.419288124288357",
+        "lng": "30.734252929687504"
+      },
+      "id": 73930406
+    },
+    {
+      "cityName": "Murzuq",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2023-08-14T12:52:31.828Z",
+      "notes": "s",
+      "position": {
+        "lat": "25.64152637306577",
+        "lng": "18.281250000000004"
+      },
+      "id": 73930407
+    },
+    {
+      "cityName": "Al Ḩamul",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:05:12.757Z",
+      "notes": "d",
+      "position": {
+        "lat": "31.3348710339506",
+        "lng": "31.096801757812504"
+      },
+      "id": 73930408
+    },
+    {
+      "cityName": "Kafr ash Shaykh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:05:31.615Z",
+      "notes": "d",
+      "position": {
+        "lat": "31.038815104128687",
+        "lng": "30.904541015625004"
+      },
+      "id": 73930409
+    },
+    {
+      "cityName": "Munuf",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:06:54.560Z",
+      "notes": "d",
+      "position": {
+        "lat": "30.50548389892728",
+        "lng": "30.9210205078125"
+      },
+      "id": 73930410
+    },
+    {
+      "cityName": "Birkat as Sab‘",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-17T13:08:19.000Z",
+      "notes": "d",
+      "position": {
+        "lat": "30.619004797647808",
+        "lng": "31.107788085937504"
+      },
+      "id": 73930411
+    },
+    {
+      "cityName": "Kafr ash Shaykh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:10:10.177Z",
+      "notes": "d",
+      "position": {
+        "lat": "31.67675841879551",
+        "lng": "31.146240234375004"
+      },
+      "id": 73930412
+    },
+    {
+      "cityName": "Biyala",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-17T13:11:02.000Z",
+      "notes": "d",
+      "position": {
+        "lat": "31.47083898476439",
+        "lng": "31.2286376953125"
+      },
+      "id": 73930413
+    },
+    {
+      "cityName": "Ar Riyaḑ",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:13:33.757Z",
+      "notes": "d",
+      "position": {
+        "lat": "31.344254455668054",
+        "lng": "30.948486328125004"
+      },
+      "id": 73930414
+    },
+    {
+      "cityName": "Sidi Salim",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:15:46.661Z",
+      "notes": "de",
+      "position": {
+        "lat": "31.31140838620163",
+        "lng": "30.827636718750004"
+      },
+      "id": 73930415
+    },
+    {
+      "cityName": "Bany Abeed",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:18:34.904Z",
+      "notes": "e",
+      "position": {
+        "lat": "31.005862904624205",
+        "lng": "31.635131835937504"
+      },
+      "id": 73930416
+    },
+    {
+      "cityName": "Kafr az Zayyat",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:20:53.106Z",
+      "notes": "ad",
+      "position": {
+        "lat": "30.859794872560766",
+        "lng": "30.866088867187504"
+      },
+      "id": 73930417
+    },
+    {
+      "cityName": "Quwaysina",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:21:15.431Z",
+      "notes": "e",
+      "position": {
+        "lat": "30.552800413453546",
+        "lng": "31.0748291015625"
+      },
+      "id": 73930418
+    },
+    {
+      "cityName": "Al Ḩamul",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:23:14.084Z",
+      "notes": "sd",
+      "position": {
+        "lat": "31.25037814985571",
+        "lng": "31.151733398437504"
+      },
+      "id": 73930419
+    },
+    {
+      "cityName": "Bilqas",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-14T13:24:07.688Z",
+      "notes": "d",
+      "position": {
+        "lat": "31.269693063754623",
+        "lng": "31.324945781250015"
+      },
+      "id": 73930420
+    },
+    {
+      "cityName": "Al Bajur",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-17T13:32:25.935Z",
+      "notes": "f",
+      "position": {
+        "lat": "30.37761431777479",
+        "lng": "31.014404296875004"
+      },
+      "id": 73930421
+    }
+  ]
+}
